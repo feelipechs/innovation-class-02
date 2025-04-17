@@ -27,6 +27,6 @@ HTML estruturado conforme o projeto do Figma
 # Responsividade
 
 O projeto está responsivo, as imagens estão sendo simuladas em um iPhone 14 Pro
-![Responsividade](innovation-class/src/assets/imgReadme/Capturar05.PNG)
+![Responsividade](innovation-class/src/assets/imgReadme/Capturar05.png)
 
-![Responsividade](innovation-class/src/assets/imgReadme/Capturar06.PNG)
+![Responsividade](innovation-class/src/assets/imgReadme/Capturar06.png)
